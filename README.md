@@ -7,8 +7,7 @@ Project: Cat vs. Dog Image Classifier
 Overview:
 In this project, we employ deep learning techniques to build an image classifier capable of distinguishing between images of cats and dogs. The model is trained on a dataset of labeled cat and dog images and can predict the category of a given image.
 
-Dataset:
-The data directory should contain a subdirectory train with separate subdirectories for cat and dog images.
+Dataset used:- https://www.kaggle.com/datasets/salader/dogs-vs-cats
 
 
 Connect with Me:
